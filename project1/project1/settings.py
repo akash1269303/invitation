@@ -77,8 +77,8 @@ WSGI_APPLICATION = 'project1.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'myuser',
-        'HOST': 'database-3.cdrf4btwrnvg.ap-south-1.rds.amazonaws.com',
+        'NAME': 'demo_1',
+        'HOST': 'database-1.c6iwap8ewss2.ap-south-1.rds.amazonaws.com',
         'USER': 'postgres',
         'PASSWORD':'Akash123',
         'PORT':5432
